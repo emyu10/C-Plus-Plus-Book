@@ -1,3 +1,5 @@
+// circtor.cpp
+// circles use constructor for initialization
 #include <iostream>
 
 using namespace std;
